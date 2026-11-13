@@ -1,12 +1,18 @@
 <div align="center">
 
-<a href="https://globalbot.site"><img src="https://raw.githubusercontent.com/globaloficial/.github/main/profile/assets/org.png" alt="Global" width="760"></a>
+<a href="https://globalbot.site"><img src="https://raw.githubusercontent.com/globaloficial/.github/main/profile/assets/global.png" alt="Global" width="120" height="120"></a>
 
-<br>
+# Global
+
+Um chat só para o Fluxer e o Discord.
 
 [![Site](https://img.shields.io/badge/site-globalbot.site-0330ef?style=flat-square&labelColor=0B0B0B)](https://globalbot.site)
 [![Bot](https://img.shields.io/badge/bot-globaloficial%2Fglobal-0330ef?style=flat-square&labelColor=0B0B0B&logo=github)](https://github.com/globaloficial/global)
 [![Fluxer](https://img.shields.io/badge/Fluxer-adicionar-0330ef?style=flat-square&labelColor=0B0B0B)](https://web.fluxer.app/oauth2/authorize?client_id=1562253521942745089&scope=bot&permissions=4503600164629568)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/globaloficial/.github/main/profile/assets/chat.png" alt="Mensagens do Fluxer e do Discord chegando no Global" width="640">
 
 </div>
 
@@ -15,9 +21,9 @@
 <h2 align="center">Sobre</h2>
 
 <p align="center">
-O Global é um chat que atravessa servidores.<br>
-Cada comunidade escolhe um canal, e as mensagens aparecem nos canais de todas as outras,<br>
-no <a href="https://fluxer.app">Fluxer</a> e no Discord, com edições, exclusões e replies sincronizados.
+O Global junta comunidades do <a href="https://fluxer.app">Fluxer</a> e do Discord num mesmo chat.<br>
+Cada servidor escolhe um canal, e o que é escrito ali aparece nos canais dos outros.<br>
+Editar, apagar e responder também funciona entre os servidores.
 </p>
 
 <br>
@@ -25,7 +31,7 @@ no <a href="https://fluxer.app">Fluxer</a> e no Discord, com edições, exclusõ
 <h2 align="center">Como funciona</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/globaloficial/.github/main/profile/assets/fluxo.png" alt="Fluxo de uma mensagem pelo Global" width="720">
+<img src="https://raw.githubusercontent.com/globaloficial/.github/main/profile/assets/fluxo.png" alt="O caminho de uma mensagem pelo Global" width="760">
 </div>
 
 <br>
